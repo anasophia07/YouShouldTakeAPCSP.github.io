@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'BeesChubees'; 
-    src: url(/font/Bees\ Chubees.otf);
+    src: url('../font/Bees\ Chubees.otf');
 }
 
 html {
