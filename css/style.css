@@ -177,15 +177,15 @@ h2 {
     margin-top: 0px;
     margin-left: 0px;
     border-width: 10px;
-    width:180px;
-    height:180px;
+    width:15vw;
+    height:15vw;
 }
 
 .studentworkimages2 img:hover {
     margin: 0;
     border-width: 10px;
-    width:180px;
-    height:180px;
+    width:15vw;
+    height:15vw;
 }
 
 .studentworkalien img {
@@ -203,18 +203,14 @@ h2 {
 
 .nextstepsbox h2 {
     color:#00027e;
-    padding-left: 200px;
     padding-bottom: 20px;
     text-align: center;
-    max-width: 500px;
 }
 
 .nextstepsbox p {
     color:#00027e;
-    padding-left: 200px;
     padding-bottom: 20px;
     text-align: center;
-    max-width: 500px;
 }
 
 .nextstepsbox h2 {
